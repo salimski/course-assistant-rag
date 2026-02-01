@@ -1,10 +1,14 @@
 node_modules/
+
 dist/
 build/
 target/
 .out/
-.vSCode/
+
+.vscode/
 .idea/
+
 *.log
 .env
-venv/Lib/site-packages/numpy.libs/libopenblas64__v0.3.23-293-gc2f4bdbb-gcc_10_3_0-2bde3a66a51006b2b53eb373ff767a3f.dll
+
+venv/
