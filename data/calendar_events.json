@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Information Retrieval Final Project",
+    "date": "2026-02-15",
+    "time": "23:59",
+    "type": "deadline"
+  },
+  {
+    "title": "IR Lecture - Advanced Ranking",
+    "date": "2026-02-03",
+    "time": "10:00",
+    "type": "class"
+  },
+  {
+    "title": "Machine Learning Exam",
+    "date": "2026-02-10",
+    "time": "09:00",
+    "type": "exam"
+  },
+  {
+    "title": "Study Group - RAG Systems",
+    "date": "2026-02-05",
+    "time": "14:00",
+    "type": "meeting"
+  }
+]

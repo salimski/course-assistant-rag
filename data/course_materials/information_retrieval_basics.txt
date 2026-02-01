@@ -1,0 +1,19 @@
+Information Retrieval Course - Lecture Notes
+
+PageRank Algorithm:
+PageRank is a link analysis algorithm used by Google Search. It assigns a numerical weight to each element of a hyperlinked set of documents. The algorithm was named after Larry Page, one of the founders of Google.
+
+The basic idea is that important pages receive more links from other pages. PageRank can be calculated iteratively using the formula:
+PR(A) = (1-d) + d * (PR(T1)/C(T1) + ... + PR(Tn)/C(Tn))
+
+Vector Space Model:
+The Vector Space Model (VSM) is an algebraic model for representing text documents as vectors of identifiers. Documents and queries are represented as vectors in a multi-dimensional space.
+
+TF-IDF:
+Term Frequency-Inverse Document Frequency is a numerical statistic that reflects how important a word is to a document in a collection. TF-IDF increases proportionally to the number of times a word appears in the document.
+
+Boolean Retrieval:
+Boolean retrieval uses Boolean logic (AND, OR, NOT operators) to match documents to queries. It's a simple but effective approach for structured queries.
+
+Inverted Index:
+An inverted index is a data structure that maps terms to the documents that contain them. It's the fundamental data structure in information retrieval systems.
