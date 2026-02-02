@@ -1,6 +1,4 @@
 """
-314777475 Salim B
-213017049 Habib N
 Agentic RAG System - Main orchestration using LangGraph
 """
 
